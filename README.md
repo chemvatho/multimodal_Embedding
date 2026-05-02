@@ -10,7 +10,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chemvatho/XLinCoLab/blob/main/XLinC_Multimodal_Embedding_Notebook.ipynb)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)](https://creativecommons.org/licenses/by/4.0/)
 
-*University of Cologne · XLinC Lab · Chem Vatho, PhD*
+*University of Cologne · XCoLab · Chem Vatho, PhD*
 
 </div>
 

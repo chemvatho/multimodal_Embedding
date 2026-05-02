@@ -32,6 +32,8 @@ Four modalities — 50 samples each — embedded and projected to 2D using UMAP 
 
 The modalities form tight, well-separated clusters in both projections, confirming that each encoder produces internally consistent representations. Cross-modal cosine similarity is near zero with randomly initialised encoders — the expected baseline before contrastive fine-tuning. The EEG ↔ Reaction Time value of 0.08 is the strongest cross-modal signal, consistent with both sharing the same experimental stimuli.
 
+![Architecture](https://github.com/chemvatho/multimodal_Embedding/blob/main/model.jpeg)
+
 ---
 
 ## Architecture

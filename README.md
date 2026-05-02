@@ -571,6 +571,7 @@ XLinCoLab/
 **Chem Vatho, PhD**   
 PhD in Phonetics · University of Cologne (2021–2025)  
 Supervisor: Prof. Dr. Martine Grice · Co-supervisor: PD Dr. Constantijn Kaland
+Mentor: Prof. Dr. Reinhold Gleisbach
 
 ---
 

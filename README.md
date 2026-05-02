@@ -83,6 +83,9 @@ linear baseline   local structure         global topology   4 × 4 matrix
 
 ### 🧠 EEG — `EEG_results/eeg_trial_data.csv`
 
+
+![EEG](https://github.com/chemvatho/multimodal_Embedding/blob/main/results/eeg_data_overview.png)
+
 Event-related potential (ERP) data from a language comprehension experiment.
 
 | Column | Type | Description |
@@ -98,6 +101,9 @@ The N400 reflects semantic processing difficulty. The P600 reflects syntactic re
 
 Natural conversational English, CC-BY 4.0. Loaded with:
 
+
+![Speech](https://github.com/chemvatho/multimodal_Embedding/blob/main/results/speech_sample_overview.png)
+
 ```python
 from datasets import load_dataset
 ds = load_dataset("PolyAI/minds14", name="en-US", split="train", streaming=True)
@@ -108,6 +114,8 @@ Real speakers calling a bank — diverse accents, speaking rates, intonation pat
 ### 👁️ Eye-tracking — Peekbank MySQL
 
 Infant word recognition data from the [Peekbank](https://peekbank.stanford.edu/) database.
+
+![Eye-tracking](https://github.com/chemvatho/multimodal_Embedding/blob/main/results/eyetracking_overview.png)
 
 **Paradigm:** Looking-while-listening — infants see two images, hear a word, and we track which image they look at over time.
 
@@ -121,6 +129,8 @@ Infant word recognition data from the [Peekbank](https://peekbank.stanford.edu/)
 | N | 50 subjects, age 9–48 months (M = 25.2 months) |
 
 ### ⏱️ Reaction Time — `RT-Results/rt_clean_data.csv`
+
+![Reaction Time](https://github.com/chemvatho/multimodal_Embedding/blob/main/results/rt_data_overview.png)
 
 Lexical decision RT data.
 

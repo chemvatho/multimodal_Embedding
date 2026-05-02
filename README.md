@@ -1,6 +1,6 @@
 <div align="center">
 
-# XLinC Multimodal Embedding Pipeline
+# XColab Multimodal Embedding Pipeline
 
 **A unified 256-dimensional embedding space for four experimental linguistics modalities**
 

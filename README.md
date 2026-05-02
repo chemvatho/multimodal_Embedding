@@ -76,6 +76,9 @@ linear baseline   local structure         global topology   4 × 4 matrix
 
 ---
 
+
+![Architecture](https://github.com/chemvatho/multimodal_Embedding/blob/main/results/xlinc_tsne_seaborn.png)
+
 ## Datasets
 
 ### 🧠 EEG — `EEG_results/eeg_trial_data.csv`
@@ -543,11 +546,11 @@ XLinCoLab/
 ```bibtex
 @misc{vatho2025xlinc,
   author      = {Vatho, Chem},
-  title       = {{XLinC Multimodal Embedding Pipeline}: A unified 256-dimensional
+  title       = {{XColab Multimodal Embedding Pipeline}: A unified 256-dimensional
                  embedding space for {EEG}, speech, eye-tracking, and reaction time},
   year        = {2025},
-  institution = {University of Cologne, XLinC Lab},
-  url         = {https://github.com/chemvatho/XLinCoLab}
+  institution = {University of Cologne},
+  url         = {https://github.com/chemvatho/XCoLab}
 }
 ```
 
@@ -555,9 +558,7 @@ XLinCoLab/
 
 ## Author
 
-**Chem Vatho, PhD**  
-Head of Data Center Office · General Department of Digital Transformation · Cambodia  
-Member, Linguistics Committee · Royal Academy of Cambodia  
+**Chem Vatho, PhD**   
 PhD in Phonetics · University of Cologne (2021–2025)  
 Supervisor: Prof. Dr. Martine Grice · Co-supervisor: PD Dr. Constantijn Kaland
 
